@@ -1,0 +1,1 @@
+This is Tematind's first git project!
